@@ -1,0 +1,848 @@
+{
+  "1": {
+    "user_id": "1",
+    "email": "Kratika41@gmail.com",
+    "total_presentations": 127,
+    "total_conversions": 45,
+    "total_ai_generations": 82,
+    "total_chat_sessions": 51,
+    "templates_used": 5,
+    "last_activity": null,
+    "favorite_templates": [],
+    "recent_files": [],
+    "presentations": [
+      {
+        "id": "002e3e61-ad89-4057-891a-815c62fcca5c",
+        "title": "ai",
+        "filename": "ai_generated_1ac351d0.pptx",
+        "created_at": "2025-07-24T19:03:51.688535",
+        "updated_at": "2025-07-24T19:03:51.688535",
+        "slides_count": 8,
+        "template_used": "AI Generated",
+        "file_size": 196136
+      },
+      {
+        "id": "5f84c075-2a2b-4c16-9ae8-db288c2fc068",
+        "title": "ai",
+        "filename": "ai_generated_9298c2ae.pptx",
+        "created_at": "2025-07-25T04:27:33.261565",
+        "updated_at": "2025-07-25T04:27:33.261565",
+        "slides_count": 8,
+        "template_used": "AI Generated",
+        "file_size": 196118
+      },
+      {
+        "id": "5461772c-ae08-4604-ab4a-6ee010677262",
+        "title": "ai for healthcare",
+        "filename": "ai_generated_e33f306e.pptx",
+        "created_at": "2025-07-25T05:50:03.497290",
+        "updated_at": "2025-07-25T05:50:03.497290",
+        "slides_count": 9,
+        "template_used": "AI Generated",
+        "file_size": 197518
+      },
+      {
+        "id": "0de9ec01-4803-477d-a5b3-2f067e07f396",
+        "title": "heathcare",
+        "filename": "ai_generated_7140b22c.pptx",
+        "created_at": "2025-07-25T06:18:08.188956",
+        "updated_at": "2025-07-25T06:18:08.188956",
+        "slides_count": 9,
+        "template_used": "AI Generated",
+        "file_size": 197006
+      },
+      {
+        "id": "16cd1306-f1db-45c4-9422-753b60b71129",
+        "title": "engineering",
+        "filename": "ai_generated_93729b3d.pptx",
+        "created_at": "2025-07-25T06:23:54.352761",
+        "updated_at": "2025-07-25T06:23:54.352761",
+        "slides_count": 8,
+        "template_used": "AI Generated",
+        "file_size": 195988
+      },
+      {
+        "id": "86842b87-0848-4747-b426-76ea8de01a0e",
+        "title": "engineering",
+        "filename": "ai_generated_b8f2da99.pptx",
+        "created_at": "2025-07-25T06:26:05.476218",
+        "updated_at": "2025-07-25T06:26:05.476218",
+        "slides_count": 8,
+        "template_used": "AI Generated",
+        "file_size": 195858
+      },
+      {
+        "id": "42b3e537-7f11-41af-a138-70cf84a0c2bf",
+        "title": "networking",
+        "filename": "ai_generated_0733a40b.pptx",
+        "created_at": "2025-07-25T06:29:57.294803",
+        "updated_at": "2025-07-25T06:29:57.294803",
+        "slides_count": 9,
+        "template_used": "AI Generated",
+        "file_size": 197023
+      },
+      {
+        "id": "b442768c-b55c-4dd7-bdc4-05af0f57710e",
+        "title": "networking",
+        "filename": "ai_generated_fbe32fd7.pptx",
+        "created_at": "2025-07-25T06:37:22.082147",
+        "updated_at": "2025-07-25T06:37:22.082147",
+        "slides_count": 9,
+        "template_used": "AI Generated",
+        "file_size": 197254
+      },
+      {
+        "id": "c63ebd42-cb04-4802-93d5-7c8a5e6b89f0",
+        "title": "network",
+        "filename": "ai_generated_1784b381.pptx",
+        "created_at": "2025-07-25T06:42:52.941930",
+        "updated_at": "2025-07-25T06:42:52.941930",
+        "slides_count": 8,
+        "template_used": "AI Generated",
+        "file_size": 196075
+      },
+      {
+        "id": "3d27b475-4a67-4f45-9318-244ad83f53f4",
+        "title": "ai",
+        "filename": "ai_generated_492b0e51.pptx",
+        "created_at": "2025-07-25T06:48:14.701371",
+        "updated_at": "2025-07-25T06:48:14.701371",
+        "slides_count": 8,
+        "template_used": "AI Generated",
+        "file_size": 196073
+      },
+      {
+        "id": "5c6cd5fd-7edb-4ebd-b61c-3e91321d9f86",
+        "title": "network",
+        "filename": "ai_generated_3e25968e.pptx",
+        "created_at": "2025-07-25T09:54:40.866768",
+        "updated_at": "2025-07-25T09:54:40.866768",
+        "slides_count": 8,
+        "template_used": "AI Generated",
+        "file_size": 195810
+      },
+      {
+        "id": "d31231bc-dee3-46b1-b385-525fb9bc33dc",
+        "title": "network",
+        "filename": "gamma_style_05ede09b.pptx",
+        "created_at": "2025-07-25T11:14:55.730040",
+        "updated_at": "2025-07-25T11:14:55.730040",
+        "slides_count": 6,
+        "template_used": "Gamma Style AI",
+        "file_size": 104063
+      },
+      {
+        "id": "10f0b6c8-55d0-4d7a-a2f6-7105636b88b4",
+        "title": "network",
+        "filename": "gamma_style_4f7b913f.pptx",
+        "created_at": "2025-07-25T11:16:25.428845",
+        "updated_at": "2025-07-25T11:16:25.428845",
+        "slides_count": 6,
+        "template_used": "Gamma Style AI",
+        "file_size": 632028
+      },
+      {
+        "id": "6012d61c-c5c7-4a87-947b-3960c737bdf2",
+        "title": "engineering students life",
+        "filename": "gamma_style_5e071773.pptx",
+        "created_at": "2025-07-25T11:24:25.566240",
+        "updated_at": "2025-07-25T11:24:25.566240",
+        "slides_count": 8,
+        "template_used": "Gamma Style AI",
+        "file_size": 1210649
+      },
+      {
+        "id": "752272e2-ed74-4947-a415-ac1114adb9a6",
+        "title": "digital networking",
+        "filename": "gamma_style_5139b0cf.pptx",
+        "created_at": "2025-07-25T11:34:53.130528",
+        "updated_at": "2025-07-25T11:34:53.130528",
+        "slides_count": 7,
+        "template_used": "Gamma Style AI",
+        "file_size": 973529
+      },
+      {
+        "id": "e7c8860e-a88c-46c6-a798-c4f2d1416c51",
+        "title": "digital networking",
+        "filename": "gamma_style_96703b16.pptx",
+        "created_at": "2025-07-25T11:36:07.911363",
+        "updated_at": "2025-07-25T11:36:07.911363",
+        "slides_count": 6,
+        "template_used": "Gamma Style AI",
+        "file_size": 880556
+      },
+      {
+        "id": "e9d1537e-77a1-4cda-a631-77652b1f33b6",
+        "title": "multiverse and parallel universe",
+        "filename": "gamma_style_4dba2c0b.pptx",
+        "created_at": "2025-07-25T11:47:33.211630",
+        "updated_at": "2025-07-25T11:47:33.211630",
+        "slides_count": 9,
+        "template_used": "Gamma Style AI",
+        "file_size": 3193590
+      },
+      {
+        "id": "d8179d52-ed1c-4f3f-8035-55f30b6468a9",
+        "title": "multiverse and parallel universe",
+        "filename": "gamma_style_955437ea.pptx",
+        "created_at": "2025-07-25T11:49:36.450677",
+        "updated_at": "2025-07-25T11:49:36.450677",
+        "slides_count": 8,
+        "template_used": "Gamma Style AI",
+        "file_size": 1942713
+      },
+      {
+        "id": "5a12746d-f456-429f-8834-04c23560c2d1",
+        "title": "ai and llm",
+        "filename": "gamma_style_b6843eb5.pptx",
+        "created_at": "2025-07-25T12:03:06.607202",
+        "updated_at": "2025-07-25T12:03:06.607202",
+        "slides_count": 6,
+        "template_used": "Gamma Style AI",
+        "file_size": 1303012
+      },
+      {
+        "id": "0ecd703b-849e-4ee1-a94c-bfc06fc9be2c",
+        "title": "ai",
+        "filename": "gamma_style_71c37f67.pptx",
+        "created_at": "2025-07-25T12:12:58.105557",
+        "updated_at": "2025-07-25T12:12:58.105557",
+        "slides_count": 7,
+        "template_used": "Gamma Style AI",
+        "file_size": 1587122
+      },
+      {
+        "id": "cf47d756-b5f2-4348-b9d0-fe6a537f7412",
+        "title": "strangers things web series",
+        "filename": "gamma_style_93bbf248.pptx",
+        "created_at": "2025-07-25T12:58:16.692555",
+        "updated_at": "2025-07-25T12:58:16.692555",
+        "slides_count": 7,
+        "template_used": "Gamma Style AI",
+        "file_size": 1656924
+      },
+      {
+        "id": "9db849a3-723e-4602-a641-eb2f6350b36e",
+        "title": "salman khan and sahrukh khan bolywood fight",
+        "filename": "gamma_style_1a3b54c9.pptx",
+        "created_at": "2025-07-26T15:59:07.353087",
+        "updated_at": "2025-07-26T15:59:07.353087",
+        "slides_count": 6,
+        "template_used": "Gamma Style AI",
+        "file_size": 1521874
+      },
+      {
+        "id": "3b27fa73-6c77-4a3b-920c-4b582aaffc3c",
+        "title": "ai",
+        "filename": "gamma_style_faa92965.pptx",
+        "created_at": "2025-07-26T18:07:44.873732",
+        "updated_at": "2025-07-26T18:07:44.873732",
+        "slides_count": 7,
+        "template_used": "Gamma Style AI",
+        "file_size": 1249541
+      },
+      {
+        "id": "e5f20234-1657-4041-a2c4-75b686cbfb5a",
+        "title": "english language",
+        "filename": "gamma_style_e8ca948f.pptx",
+        "created_at": "2025-07-26T18:40:17.010707",
+        "updated_at": "2025-07-26T18:40:17.010707",
+        "slides_count": 6,
+        "template_used": "Gamma Style AI",
+        "file_size": 1076771
+      },
+      {
+        "id": "9778d295-2910-4c8b-a076-9571e01e9b45",
+        "title": "quantom mechanics",
+        "filename": "gamma_style_6a3b709d.pptx",
+        "created_at": "2025-07-27T05:16:53.767073",
+        "updated_at": "2025-07-27T05:16:53.767073",
+        "slides_count": 8,
+        "template_used": "Gamma Style AI",
+        "file_size": 999039
+      },
+      {
+        "id": "43e9867b-520e-4958-a185-95963e24b893",
+        "title": "product based company ",
+        "filename": "enhanced_ai_pptx_8a29ac98.pptx",
+        "created_at": "2025-07-27T05:24:43.795993",
+        "updated_at": "2025-07-27T05:24:43.795993",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 716604
+      },
+      {
+        "id": "1c4ee819-6a4c-4214-9365-ff28299b6f1e",
+        "title": "product based company ",
+        "filename": "enhanced_ai_pptx_40155a07.pptx",
+        "created_at": "2025-07-27T05:26:55.333884",
+        "updated_at": "2025-07-27T05:26:55.333884",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 539437
+      },
+      {
+        "id": "003fc3cc-b663-46c2-b2ea-292026e40a2f",
+        "title": "product based company ",
+        "filename": "enhanced_ai_pptx_1b4b8190.pptx",
+        "created_at": "2025-07-27T05:27:37.556965",
+        "updated_at": "2025-07-27T05:27:37.556965",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (auto)",
+        "file_size": 191825
+      },
+      {
+        "id": "da40e523-81db-41c8-97c7-5528d57669e3",
+        "title": "product based company ",
+        "filename": "enhanced_ai_pptx_08e1c2b6.pptx",
+        "created_at": "2025-07-27T05:28:12.396714",
+        "updated_at": "2025-07-27T05:28:12.396714",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 1204848
+      },
+      {
+        "id": "77b3ff99-423e-4175-aa6f-40a86f60babf",
+        "title": "computer networking",
+        "filename": "enhanced_ai_pptx_5f1a0ddb.pptx",
+        "created_at": "2025-07-27T05:39:31.194204",
+        "updated_at": "2025-07-27T05:39:31.194204",
+        "slides_count": 10,
+        "template_used": "Enhanced AI (image-right)",
+        "file_size": 1291198
+      },
+      {
+        "id": "dbed02ca-48bb-429e-90c2-48f9f611b817",
+        "title": "matchine learning",
+        "filename": "enhanced_ai_pptx_3d9b34d3.pptx",
+        "created_at": "2025-07-27T05:45:07.675459",
+        "updated_at": "2025-07-27T05:45:07.675459",
+        "slides_count": 15,
+        "template_used": "Enhanced AI (image-right)",
+        "file_size": 2383237
+      },
+      {
+        "id": "2ae8f9b4-a573-4788-a52b-ffdcddfea244",
+        "title": "matchine learning",
+        "filename": "enhanced_ai_pptx_001dea87.pptx",
+        "created_at": "2025-07-27T05:50:28.549949",
+        "updated_at": "2025-07-27T05:50:28.549949",
+        "slides_count": 7,
+        "template_used": "Enhanced AI (image-right)",
+        "file_size": 529731
+      },
+      {
+        "id": "33816493-670d-43a4-96c5-90092cabd8bf",
+        "title": "matchine learning",
+        "filename": "enhanced_ai_pptx_59c13ec4.pptx",
+        "created_at": "2025-07-27T05:51:18.383691",
+        "updated_at": "2025-07-27T05:51:18.383691",
+        "slides_count": 9,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 196583
+      },
+      {
+        "id": "870b986e-1bf3-4d53-90fd-e19a264d6f51",
+        "title": "english learning",
+        "filename": "enhanced_ai_pptx_25280e65.pptx",
+        "created_at": "2025-07-27T05:58:49.102052",
+        "updated_at": "2025-07-27T05:58:49.102052",
+        "slides_count": 9,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 218388
+      },
+      {
+        "id": "71657dba-c8cd-44cb-b257-d1963bf72dcf",
+        "title": "english learning",
+        "filename": "enhanced_ai_pptx_f09ac2f2.pptx",
+        "created_at": "2025-07-27T06:06:59.917266",
+        "updated_at": "2025-07-27T06:06:59.917266",
+        "slides_count": 9,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 218326
+      },
+      {
+        "id": "295918f9-5af2-4a25-ab4c-cdcf914d25af",
+        "title": "dark web",
+        "filename": "enhanced_ai_pptx_1f70aad0.pptx",
+        "created_at": "2025-07-27T06:13:28.694675",
+        "updated_at": "2025-07-27T06:13:28.694675",
+        "slides_count": 11,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 272684
+      },
+      {
+        "id": "282b47c1-7414-409d-9a18-6cd576ca8517",
+        "title": "mahakumbh",
+        "filename": "enhanced_ai_pptx_9747d447.pptx",
+        "created_at": "2025-07-27T06:38:26.249986",
+        "updated_at": "2025-07-27T06:38:26.249986",
+        "slides_count": 8,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 2848192
+      },
+      {
+        "id": "dfe57ada-3690-4688-9f77-b6acd582835f",
+        "title": "mahakumbh",
+        "filename": "enhanced_ai_pptx_2e2df388.pptx",
+        "created_at": "2025-07-27T06:40:21.831210",
+        "updated_at": "2025-07-27T06:40:21.831210",
+        "slides_count": 8,
+        "template_used": "Enhanced AI (title-content)",
+        "file_size": 195593
+      },
+      {
+        "id": "98eb6cea-5cc8-400d-8fe7-838dc293b163",
+        "title": "mahakumbh",
+        "filename": "enhanced_ai_pptx_7735c969.pptx",
+        "created_at": "2025-07-27T06:41:02.139672",
+        "updated_at": "2025-07-27T06:41:02.139672",
+        "slides_count": 8,
+        "template_used": "Enhanced AI (image-right)",
+        "file_size": 2696708
+      },
+      {
+        "id": "1315eccc-4702-4ce2-8eaf-dc05adb385db",
+        "title": "mahakumbh",
+        "filename": "enhanced_ai_pptx_124735ea.pptx",
+        "created_at": "2025-07-27T06:42:15.421072",
+        "updated_at": "2025-07-27T06:42:15.421072",
+        "slides_count": 8,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 3039875
+      },
+      {
+        "id": "466d8cd1-c91a-4591-a877-41790d4b344d",
+        "title": "mahakumbh",
+        "filename": "enhanced_ai_pptx_17412761.pptx",
+        "created_at": "2025-07-27T06:43:42.517596",
+        "updated_at": "2025-07-27T06:43:42.517596",
+        "slides_count": 8,
+        "template_used": "Enhanced AI (two-column)",
+        "file_size": 195965
+      },
+      {
+        "id": "b7aa7b36-b661-4cbc-9f1f-dea4398ed058",
+        "title": "computer history and networking ",
+        "filename": "enhanced_ai_pptx_309d2802.pptx",
+        "created_at": "2025-07-27T07:23:22.425303",
+        "updated_at": "2025-07-27T07:23:22.425303",
+        "slides_count": 16,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 2291994
+      },
+      {
+        "id": "62a3c94d-4609-4487-8e54-2e3134ccc0b5",
+        "title": "computer history and networking ",
+        "filename": "enhanced_ai_pptx_b4c57066.pptx",
+        "created_at": "2025-07-27T07:24:20.173975",
+        "updated_at": "2025-07-27T07:24:20.173975",
+        "slides_count": 16,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 3448696
+      },
+      {
+        "id": "3eba50ef-a700-4018-99a0-152d561c6419",
+        "title": "computer history and networking ",
+        "filename": "enhanced_ai_pptx_df8367c1.pptx",
+        "created_at": "2025-07-27T07:36:03.598794",
+        "updated_at": "2025-07-27T07:36:03.598794",
+        "slides_count": 16,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 2339890
+      },
+      {
+        "id": "b68d2ea0-7ef3-4b68-a135-e310d76bb3d1",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_5c18c5d6.pptx",
+        "created_at": "2025-07-27T07:44:18.756274",
+        "updated_at": "2025-07-27T07:44:18.756274",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 1328539
+      },
+      {
+        "id": "182248c6-e2c1-4840-9a7a-0e7b963e917c",
+        "title": "ml matchine learning",
+        "filename": "enhanced_ai_pptx_03e3c5e8.pptx",
+        "created_at": "2025-07-27T07:45:43.570369",
+        "updated_at": "2025-07-27T07:45:43.570369",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 666773
+      },
+      {
+        "id": "66a35461-8f5b-48ae-aacc-9ad20112fca5",
+        "title": "ml matchine learning",
+        "filename": "enhanced_ai_pptx_93441ef7.pptx",
+        "created_at": "2025-07-27T07:55:16.089125",
+        "updated_at": "2025-07-27T07:55:16.089125",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 226053
+      },
+      {
+        "id": "d62eec48-2bb3-4f47-ac8e-4cc8d49e5d18",
+        "title": "ml matchine learning",
+        "filename": "enhanced_ai_pptx_34c731f0.pptx",
+        "created_at": "2025-07-27T07:57:12.230079",
+        "updated_at": "2025-07-27T07:57:12.230079",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 226183
+      },
+      {
+        "id": "9f5c866f-24fb-402f-9a23-bcdcaca7f174",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_860d12a9.pptx",
+        "created_at": "2025-07-27T07:59:32.107357",
+        "updated_at": "2025-07-27T07:59:32.107357",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 898713
+      },
+      {
+        "id": "2643debe-899d-416f-9e4d-f692bca6f2d5",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_1b4534ea.pptx",
+        "created_at": "2025-07-27T08:33:07.774242",
+        "updated_at": "2025-07-27T08:33:07.774242",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 1207968
+      },
+      {
+        "id": "ed6f6018-e51b-4f7f-a1c8-1f170dfa0a22",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_0c33be1f.pptx",
+        "created_at": "2025-07-27T09:14:13.853606",
+        "updated_at": "2025-07-27T09:14:13.853606",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 1030498
+      },
+      {
+        "id": "088192b7-914b-4a5e-87c8-c673775146ee",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_0522d421.pptx",
+        "created_at": "2025-07-27T09:15:15.121135",
+        "updated_at": "2025-07-27T09:15:15.121135",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-right)",
+        "file_size": 1298772
+      },
+      {
+        "id": "5f0ee8de-169e-4bd3-9b42-5470b47d2aaf",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_4685177f.pptx",
+        "created_at": "2025-07-27T09:21:45.854185",
+        "updated_at": "2025-07-27T09:21:45.854185",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-right)",
+        "file_size": 944437
+      },
+      {
+        "id": "3b005553-70cf-49b3-9be3-8f078523eeb5",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_dc7101c5.pptx",
+        "created_at": "2025-07-27T09:22:48.775842",
+        "updated_at": "2025-07-27T09:22:48.775842",
+        "slides_count": 2,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 565247
+      },
+      {
+        "id": "e5a65ca2-d4a0-44ea-9759-3db496404d3c",
+        "title": "enginerring and mechanics ",
+        "filename": "enhanced_ai_pptx_b5f2f605.pptx",
+        "created_at": "2025-07-27T10:01:56.129088",
+        "updated_at": "2025-07-27T10:01:56.129088",
+        "slides_count": 4,
+        "template_used": "Enhanced AI (image-right)",
+        "file_size": 1037467
+      },
+      {
+        "id": "5a83efd0-fa5c-46b0-80dc-c88f632350ac",
+        "title": "enginerring and mechanics ",
+        "filename": "enhanced_ai_pptx_d683d966.pptx",
+        "created_at": "2025-07-27T10:02:57.684450",
+        "updated_at": "2025-07-27T10:02:57.684450",
+        "slides_count": 4,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 1256468
+      },
+      {
+        "id": "81b78a4e-0320-41d8-aacb-71ba5649f773",
+        "title": "strangers things web series",
+        "filename": "enhanced_ai_pptx_fb9902df.pptx",
+        "created_at": "2025-07-27T10:10:32.576368",
+        "updated_at": "2025-07-27T10:10:32.576368",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 1976339
+      },
+      {
+        "id": "5ef01087-0f42-47f6-aa25-7de44c3aecea",
+        "title": "strangers things web series",
+        "filename": "enhanced_ai_pptx_d2c75cc6.pptx",
+        "created_at": "2025-07-27T10:18:28.212348",
+        "updated_at": "2025-07-27T10:18:28.212348",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 1712316
+      },
+      {
+        "id": "d9b8f4ed-a03c-4158-821c-839b48dd314c",
+        "title": "strangers things web series",
+        "filename": "enhanced_ai_pptx_f2483dae.pptx",
+        "created_at": "2025-07-27T10:18:59.567097",
+        "updated_at": "2025-07-27T10:18:59.567097",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 1292773
+      },
+      {
+        "id": "ac600ad2-c038-4a78-b347-09e3cbce9e9b",
+        "title": "strangers things web series",
+        "filename": "enhanced_ai_pptx_065ce073.pptx",
+        "created_at": "2025-07-27T10:24:43.312651",
+        "updated_at": "2025-07-27T10:24:43.312651",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 1309056
+      },
+      {
+        "id": "c3861f29-062c-4bdf-9a87-7ab926d7cde3",
+        "title": "bollywood india",
+        "filename": "enhanced_ai_pptx_5d44411d.pptx",
+        "created_at": "2025-07-27T10:26:20.994847",
+        "updated_at": "2025-07-27T10:26:20.994847",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 1205386
+      },
+      {
+        "id": "c5e9e18b-3926-49a0-8694-fa04dd8d6b4d",
+        "title": "macbook m4 air mid night ",
+        "filename": "enhanced_ai_pptx_72113c4d.pptx",
+        "created_at": "2025-08-06T18:15:38.647572",
+        "updated_at": "2025-08-06T18:15:38.647572",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 935088
+      },
+      {
+        "id": "f1d35da7-07cc-489a-9926-3199e63f18ed",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_745a092f.pptx",
+        "created_at": "2025-08-13T13:23:42.591050",
+        "updated_at": "2025-08-13T13:23:42.591054",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 656237
+      },
+      {
+        "id": "199a5969-5096-40db-904c-7d0b15c7af19",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_2ac53583.pptx",
+        "created_at": "2025-08-13T13:24:20.624347",
+        "updated_at": "2025-08-13T13:24:20.624351",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 576506
+      },
+      {
+        "id": "9bb4fcc5-4e41-4bc5-9499-8b73b14eb732",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_246f4372.pptx",
+        "created_at": "2025-08-13T13:24:49.965897",
+        "updated_at": "2025-08-13T13:24:49.965902",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 703563
+      },
+      {
+        "id": "7bd4884a-432b-4835-9a8b-ec6c3558f731",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_7fac1c3b.pptx",
+        "created_at": "2025-08-13T13:28:13.210168",
+        "updated_at": "2025-08-13T13:28:13.210172",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 583262
+      },
+      {
+        "id": "b9fd676c-a8ab-429b-85ee-98bf3e346585",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_3a58caa5.pptx",
+        "created_at": "2025-08-13T13:30:03.643981",
+        "updated_at": "2025-08-13T13:30:03.643986",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (auto)",
+        "file_size": 408515
+      },
+      {
+        "id": "a1152a6b-9dba-42ac-965c-253f5f3fc09b",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_688f7263.pptx",
+        "created_at": "2025-08-13T13:33:40.644236",
+        "updated_at": "2025-08-13T13:33:40.644242",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (auto)",
+        "file_size": 192252
+      },
+      {
+        "id": "797ccfb6-dac7-473e-a793-8593db5f0908",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_2ce331ee.pptx",
+        "created_at": "2025-08-13T17:08:44.640570",
+        "updated_at": "2025-08-13T17:08:44.640576",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 1169036
+      },
+      {
+        "id": "bb6ba79d-baf4-471e-959a-8d2eac3a00e7",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_5b9be71c.pptx",
+        "created_at": "2025-08-13T17:09:56.080304",
+        "updated_at": "2025-08-13T17:09:56.080311",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (image-left)",
+        "file_size": 1409450
+      },
+      {
+        "id": "122f3a2a-8d02-42d0-b3bf-aadee1c4dbca",
+        "title": "engineering",
+        "filename": "enhanced_ai_pptx_be26e1ec.pptx",
+        "created_at": "2025-08-13T18:43:00.517834",
+        "updated_at": "2025-08-13T18:43:00.517837",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 1593593
+      },
+      {
+        "id": "1b302641-28cd-4c27-99d8-4328fdf6d46d",
+        "title": "india vs pakistan ",
+        "filename": "enhanced_ai_pptx_b15a09d1.pptx",
+        "created_at": "2025-08-13T18:43:55.024314",
+        "updated_at": "2025-08-13T18:43:55.024319",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 533962
+      },
+      {
+        "id": "a8a70c1e-92bc-485f-b8ad-a7ef2f59a953",
+        "title": "icc and cricket",
+        "filename": "enhanced_ai_pptx_5a362c79.pptx",
+        "created_at": "2025-08-13T18:45:29.686688",
+        "updated_at": "2025-08-13T18:45:29.686694",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 710727
+      },
+      {
+        "id": "ce3a46b6-152e-4aae-8184-4a938825447f",
+        "title": "google",
+        "filename": "enhanced_ai_pptx_81e124fd.pptx",
+        "created_at": "2025-08-13T18:46:52.746559",
+        "updated_at": "2025-08-13T18:46:52.746564",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 891101
+      },
+      {
+        "id": "b69e6fa5-c233-4373-aab9-054c5cf98dc3",
+        "title": "software engineering",
+        "filename": "enhanced_ai_pptx_d684b28e.pptx",
+        "created_at": "2025-08-13T18:50:56.875672",
+        "updated_at": "2025-08-13T18:50:56.875675",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 882334
+      },
+      {
+        "id": "7da74f86-3775-459a-bb9a-293bf3b8252b",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_bdae191a.pptx",
+        "created_at": "2025-08-13T18:58:21.701049",
+        "updated_at": "2025-08-13T18:58:21.701053",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 941324
+      },
+      {
+        "id": "6c54ec8e-1b1b-4b5e-84cc-fd5e11e5dc20",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_c918de29.pptx",
+        "created_at": "2025-08-14T02:03:17.690931",
+        "updated_at": "2025-08-14T02:03:17.690936",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 1197883
+      },
+      {
+        "id": "c88ba5c9-da67-49e6-9191-99a164c560e7",
+        "title": "ai",
+        "filename": "enhanced_ai_pptx_df6d65f6.pptx",
+        "created_at": "2025-08-14T18:31:13.918251",
+        "updated_at": "2025-08-14T18:31:13.918257",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 509150
+      },
+      {
+        "id": "dbf64dbc-0503-4c96-aa8e-8879dfcfcf80",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_13257946.pptx",
+        "created_at": "2025-08-14T18:32:10.244524",
+        "updated_at": "2025-08-14T18:32:10.244529",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 250630
+      },
+      {
+        "id": "20e3bde7-a095-4160-90f9-2af2c1de933b",
+        "title": "engineering",
+        "filename": "enhanced_ai_pptx_17f40f60.pptx",
+        "created_at": "2025-08-14T18:42:16.492106",
+        "updated_at": "2025-08-14T18:42:16.492113",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 830659
+      },
+      {
+        "id": "aa9fd4c0-7b49-4d51-b3a2-96caa6a0c637",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_a475722a.pptx",
+        "created_at": "2025-08-14T18:58:10.893768",
+        "updated_at": "2025-08-14T18:58:10.893774",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (auto)",
+        "file_size": 879875
+      },
+      {
+        "id": "1db81189-821e-4007-8a86-7bc9acfb4a78",
+        "title": "netflix",
+        "filename": "enhanced_ai_pptx_6f8cc032.pptx",
+        "created_at": "2025-08-14T18:58:54.129656",
+        "updated_at": "2025-08-14T18:58:54.129660",
+        "slides_count": 5,
+        "template_used": "Enhanced AI (full-image)",
+        "file_size": 1024116
+      }
+    ]
+  },
+  "2": {
+    "user_id": "2",
+    "email": "aryamanniboriya94@gmail.com",
+    "total_presentations": 0,
+    "total_conversions": 0,
+    "total_ai_generations": 0,
+    "total_chat_sessions": 5,
+    "templates_used": 0,
+    "last_activity": null,
+    "favorite_templates": [],
+    "recent_files": []
+  }
+}
